@@ -9,5 +9,6 @@ public class LoginTest3 {
 	public void loginPageTest()
 	{
 		System.out.println("This is Login Test Method");
+		System.out.println("checking GIT check in");
 	}
 }
